@@ -38,7 +38,7 @@ Joins
    - Left joins
    - Right joins
    - Full outer joins
-   - Self joins
+   ----> Self joins
    - Cross joins
 
 Subqueries
