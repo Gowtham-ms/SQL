@@ -30,7 +30,9 @@ Intermediate
 Functions and Expressions
    - Aggregate functions (COUNT, SUM, AVG, MAX, MIN)
    - String functions (CONCAT, LENGTH, SUBSTRING)
-   - Date and time functions (NOW, DATEADD, DATEDIFF)
+   
+(Later)
+- Date and time functions (NOW, DATEADD, DATEDIFF)
    - Mathematical functions
 
 Joins
