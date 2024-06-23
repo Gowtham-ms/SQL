@@ -90,3 +90,10 @@ END
 --11-16 : Errors that can be corrected by ther user input --> by users
 --17-19 : Software errors it will be handled by databse admins  --> Db admins
 --20-25 : the logic has be terminated abnormally -- resolved by developers
+
+
+--16: nonfatal mistakes by user
+--17: server run out happened by db admins
+--19: noncofigurable db limit has been exceed by admins
+--20: statement has encountered a problem
+--21: a proble has been encountered that affects all tasks in the current db

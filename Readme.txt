@@ -66,7 +66,8 @@ Stored Procedures and Functions
    - Creating stored procedures
    - Creating user-defined functions
    - Using parameters
-   - Error handling in stored procedures
+   - Error handling in stored procedures 
+-- How to log the errors in separate tables
 
 Triggers
    - Creating triggers

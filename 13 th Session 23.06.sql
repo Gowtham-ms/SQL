@@ -1,0 +1,17 @@
+--MY real world scenario : 
+--ONLINE STORE 
+--Products table --> ID , prd desc, price
+--Customers table --> ID . name 
+--Purchase -> Products foreign and customer table foreign key
+--Transaction table -> purchase id as foreign key -> By cash or by cards or some other 
+--User table --> sign up informations -> primary key of customers table -> some people 
+--Shipping details --> shipping foregn key of purchase
+--ErrorLogging --> now a days it is not available real world 
+--Return Items --> foreign key of purchase id and customer id 
+--Reviews table --> 
+-- Store Employees --> employee details of store -- foriegn key of user table
+--Discount table --> products we can give discount -- foreign key of product table
+--security --> forgetting the password - user table 
+--gmail --> account verification -- user table 
+
+--Design a database for university --> univeristy project 
